@@ -1,0 +1,6 @@
+Cluster   1 | size:   2 | mean Q: 0.672 | centroid: idx 22 (29.pdb)
+Cluster   2 | size:   1 | mean Q: 1.000 | centroid: idx 94 (94.pdb)
+Cluster   3 | size:   9 | mean Q: 0.427 | centroid: idx 76 (78.pdb)
+Cluster   4 | size:  86 | mean Q: 0.469 | centroid: idx 36 (41.pdb)
+Cluster   5 | size:   1 | mean Q: 1.000 | centroid: idx 19 (26.pdb)
+Cluster   6 | size:   1 | mean Q: 1.000 | centroid: idx 66 (69.pdb)
