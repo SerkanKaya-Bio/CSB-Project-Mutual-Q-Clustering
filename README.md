@@ -1,5 +1,7 @@
 # CSB-Project-Mutual-Q-Clustering
-This repository consists of three separate scripts to extract C-alpha backbones of protein structures, compute the similarity matrix via mutual-Q and perform hierarchical agglomerative clustering with centroid linkage on the mutual-Q matrix.
+This repository comprises three scripts to extract C-alpha backbones from protein structures, compute the similarity matrix using mutual-Q, and perform hierarchical agglomerative clustering with centroid linkage on the mutual-Q matrix.
+
+Some RibbonFold-predicted alpha-synuclein 1-99 structures have been added to Ribbons/TestRibbons to run a test analysis.
 
 Here is a step-by-step guide to run the scripts:
 1. Put your Ribbon-Structures in the Ribbons folder.
