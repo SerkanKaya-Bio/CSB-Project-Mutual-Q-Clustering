@@ -10,6 +10,7 @@ Here is a step-by-step guide to run the scripts:
 4. Outputs of extractCA.py, mutualQ.py and hierarchicalClusteringNew.py can be viewed in the folders Calpha, Qmatrix and Clusters, respectively.
 
 Citation:
+
 Guo, L., Yu, Q., Wang, D., Wu, X., Wolynes, P. G., & Chen, M. (2025). Generating the polymorph landscapes of amyloid fibrils using AI: RibbonFold. Proceedings of the National Academy of Sciences, 122(16), e2501321122. https://doi.org/10.1073/pnas.2501321122
 
 Chen, M., Schafer, N. P., & Wolynes, P. G. (2018). Surveying the Energy Landscapes of Aβ Fibril Polymorphism. The Journal of Physical Chemistry. B, 122(49), 11414. https://doi.org/10.1021/acs.jpcb.8b07364
